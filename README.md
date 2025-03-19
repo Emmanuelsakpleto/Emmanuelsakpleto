@@ -44,7 +44,7 @@ Currently, I’m diving deeper into **Data Science, Machine Learning, and Softwa
 
 ## 📫 Connect With Me  
 📌 **GitHub:** [@Emmanuelsakpleto](https://github.com/Emmanuelsakpleto)  
-📌 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/emmanuelsakpleto)  
-📌 **Email:** [Your Email](emmanuelsakpleto1@gmail.com)  
+📌 **LinkedIn:** [Yao Emmanuel Marie SAKPLETO](https://www.linkedin.com/in/emmanuelsakpleto)  
+📌 **Email:** [emmanuelsakpleto1@gmail.com](emmanuelsakpleto1@gmail.com)  
 
 ⚡ **Fun Fact:** I create memes about **"Chill Guy"**, a character who stays unbothered no matter what! 😎  
