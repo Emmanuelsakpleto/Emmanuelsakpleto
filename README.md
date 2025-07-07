@@ -1,20 +1,22 @@
 #  Hi, I’m Emmanuel Sakpleto  
 
 ##  About Me  
-I’m passionate about **Artificial Intelligence, Data Analytics, and Software Development**.  
+I’m passionate about **Data, Machine learning and Artificial Intelligence**.  
 My journey in tech started with a strong curiosity about how data shapes decision-making and how AI can be leveraged to solve real-world problems.  
 
-Currently, I’m diving deeper into **Data Science, Machine Learning, and NLP**, aiming to build a strong portfolio of projects that showcase my skills.  
+Currently, I’m diving deeper into **Data Science, Machine Learning, LLMs and NLP**, aiming to build a strong portfolio of projects that showcase my skills.  
 
 ---
 
 ##  What I’m Learning  
-- **Programming:** Python, R, SQL  
-- **Data Science & AI:** Data Cleaning, Visualization, Machine Learning, AI Ethics  
- **Databases:** MySQL, PostgreSQL
+- **Programming:** Python, R, SQL, NoSQL  
+- **Data Science & AI:** Data Cleaning, Visualization, Machine Learning, LLMs, NLP, AI Ethics
+- **Visualization:** Power BI, Tableau
+- **Spreadsheets:** Excel, Google Sheets 
+ **Databases:** MySQL, PostgreSQL and MongoDB
 - **Development:**  
-   - **Frontend:** HTML, CSS, learning JavaScript & React  
-   - **Backend:** Basics of Node.js & Flask  
+   - **Frontend:** HTML, CSS, JavaScript, React & Next.js
+   - **Backend:** Node.js & Flask  
 - **Tools & Technologies:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Git/GitHub, RStudio  
 
 ---
@@ -22,7 +24,8 @@ Currently, I’m diving deeper into **Data Science, Machine Learning, and NLP**,
 ##  What I’m Working On  
 - Building **data-driven projects** to analyze trends, optimize decisions, and make predictions  
 - Developing **interactive dashboards and visualizations**  
-- Exploring **full-stack development** to integrate data solutions into web applications  
+- Exploring **full-stack development** to integrate data solutions into web applications
+- Touching **LLMs** and **NLP** 
 - Learning **software engineering best practices** to write clean, efficient, and scalable code  
 
 ---
