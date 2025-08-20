@@ -70,14 +70,7 @@ My journey started with curiosity about how data influences decisions. Today, I�
 - Stack moderne : **React + TypeScript + Vite + TailwindCSS** (frontend) & **Flask + PostgreSQL + Gemini API** (backend)  
 
 **Tech Stack:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)  
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-AECBFA?style=for-the-badge&logo=google&logoColor=black)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google_Gemini-AECBFA?style=for-the-badge&logo=google&logoColor=black)  
 
 ---
 
@@ -88,10 +81,7 @@ My journey started with curiosity about how data influences decisions. Today, I�
 - Génération de texte en Éwé avec métriques de suivi (loss/perplexité)  
 
 **Tech Stack:**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![Transformers](https://img.shields.io/badge/Transformers-FFDF00?style=for-the-badge&logo=huggingface&logoColor=black)  
-![Tokenizers](https://img.shields.io/badge/Tokenizers-FFDF00?style=for-the-badge&logo=huggingface&logoColor=black)  
-![NLP](https://img.shields.io/badge/NLP-008080?style=for-the-badge&logo=semanticweb&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFDF00?style=for-the-badge&logo=huggingface&logoColor=black) ![Tokenizers](https://img.shields.io/badge/Tokenizers-FFDF00?style=for-the-badge&logo=huggingface&logoColor=black) ![NLP](https://img.shields.io/badge/NLP-008080?style=for-the-badge&logo=semanticweb&logoColor=white)  
 
 ---
 
@@ -102,12 +92,8 @@ My journey started with curiosity about how data influences decisions. Today, I�
 - Clustering avec **DBSCAN** et **K-Means**  
 
 **Tech Stack:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge&logo=python&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge&logo=python&logoColor=white)  
+
 
 
 ---
