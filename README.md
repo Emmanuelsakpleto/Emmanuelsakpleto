@@ -60,6 +60,42 @@ My journey started with curiosity about how data influences decisions. Today, I�
 
 ---
 
+## 📌 Pinned Projects  
+
+### 🔹 [TheRecruit 🚀](https://github.com/Emmanuelsakpleto/LLM_Recrutement_Frontend) | [Backend](https://github.com/Emmanuelsakpleto/LLM_Recrutement_Backend)  
+💼 Plateforme intelligente de gestion de recrutement propulsée par **Google Gemini AI**.  
+- Analyse automatisée de CV et scoring prédictif  
+- Génération de questions d’entretien personnalisées  
+- Dashboards interactifs & rapports PDF  
+- Stack moderne : **React + TypeScript + Vite + TailwindCSS** (frontend) & **Flask + PostgreSQL + Gemini API** (backend)  
+
+**Badges:**  
+`React` `TypeScript` `Vite` `Tailwind` `Flask` `PostgreSQL` `Gemini AI` `JWT`
+
+---
+
+### 🔹 [LLM pour la Langue Éwé 🧠](https://github.com/Emmanuelsakpleto/Ewe_text_generation)  
+📖 Projet de recherche pour entraîner un **modèle de langage GPT-like** adapté à la langue Éwé.  
+- Prétraitement et tokenization BPE avec Hugging Face  
+- Modèle Transformer (PyTorch) entraîné sur corpus Éwé  
+- Génération de texte en Éwé avec métriques de suivi (loss/perplexité)  
+
+**Badges:**  
+`PyTorch` `Transformers` `Tokenizers` `LLM` `NLP`  
+
+---
+
+### 🔹 [Admission aux Urgences 🏥](https://github.com/Emmanuelsakpleto/Admission-aux-urgences_ML)  
+📊 Analyse de 32k admissions hospitalières pour identifier des profils patients et tendances.  
+- Nettoyage & prétraitement des données (pandas, numpy)  
+- Visualisation exploratoire (matplotlib, seaborn)  
+- Clustering avec **DBSCAN** et **K-Means**  
+
+**Badges:**  
+`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn` `Clustering`
+
+---
+
 ## 📊 GitHub Stats  
 
 <p align="center">
