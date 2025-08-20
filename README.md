@@ -1,53 +1,90 @@
-#  Hi, I’m Emmanuel Sakpleto  
+# 💡 Emmanuel Sakpleto  
 
-##  About Me  
-I’m passionate about **Data, Machine learning and Artificial Intelligence**.  
-My journey in tech started with a strong curiosity about how data shapes decision-making and how AI can be leveraged to solve real-world problems.  
+## 👨‍💻 About Me  
+I am passionate about **Data, Machine Learning, and Artificial Intelligence**.  
+I combine skills in **Data Engineering, Analysis, and Science** with **Full-Stack Development** to design solutions that are both **data-driven and scalable**.  
 
-Currently, I’m diving deeper into **Data Science, Machine Learning, LLMs and NLP**, aiming to build a strong portfolio of projects that showcase my skills.  
-
----
-
-##  What I’m Learning  
-- **Programming:** Python, R, SQL, NoSQL  
-- **Data Science & AI:** Data Cleaning, Visualization, Machine Learning, LLMs, NLP, AI Ethics
-- **Visualization:** Power BI, Tableau
-- **Spreadsheets:** Excel, Google Sheets 
- **Databases:** MySQL, PostgreSQL and MongoDB
-- **Development:**  
-   - **Frontend:** HTML, CSS, JavaScript, React & Next.js
-   - **Backend:** Node.js & Flask  
-- **Tools & Technologies:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Git/GitHub, RStudio  
+My journey started with curiosity about how data influences decisions. Today, I’m building projects that bring together **data pipelines, analytics, AI models, and web applications**.  
 
 ---
 
-##  What I’m Working On  
-- Building **data-driven projects** to analyze trends, optimize decisions, and make predictions  
-- Developing **interactive dashboards and visualizations**  
-- Exploring **full-stack development** to integrate data solutions into web applications
-- Touching **LLMs** and **NLP** 
-- Learning **software engineering best practices** to write clean, efficient, and scalable code  
+## 🚀 Tech Stack  
+
+### 📊 Data & AI  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,mongodb,sqlite" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>  
+
+- **Data Engineering & Processing:** Pandas, NumPy, PySpark, SQL, NoSQL  
+- **Machine Learning & AI:** Scikit-learn, TensorFlow, PyTorch, Hugging Face (LLMs, NLP)  
+- **Visualization:** Matplotlib, Seaborn, Plotly, Tableau, Power BI  
 
 ---
 
-##  Goals  
-- Strengthen my **SQL & Python** skills for data analysis  
-- Build **machine learning models** and improve my understanding of AI  
-- Work on **end-to-end projects** that involve both **data processing and application development**  
-- Create a **portfolio of impactful projects** to showcase my skills  
+### 🌐 Full-Stack Development  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vite,nodejs,express,flask" />
+</p>  
+
+- **Frontend:** HTML, CSS, JavaScript, React, Next.js, Vite  
+- **Backend:** Node.js, Express, Flask  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
 
 ---
 
-##  Looking to Collaborate On  
-- **Open-source projects** in AI, Data Analytics, and Web Development  
-- **SQL & Python-based data projects**  
-- **Beginner-friendly full-stack applications with data integration**  
+### ⚙️ Tools & Workflow  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,rstudio,linux,docker" />
+</p>  
+
+- Git/GitHub, VS Code, RStudio, Jupyter Notebooks  
+- Docker (beginner), Linux  
+- Agile/Scrum project management  
 
 ---
 
-##  Connect With Me  
+## 📂 What I’m Working On  
+- 🔹 **End-to-End Data Projects**: from data collection → processing → visualization → prediction  
+- 🔹 **Machine Learning models** for classification, regression, and NLP  
+- 🔹 **Interactive dashboards** with Tableau, Power BI, and React  
+- 🔹 **Web apps** integrating AI/ML models (Flask / FastAPI + React)  
+
+---
+
+## 🎯 Goals  
+- Master **SQL & Python** for advanced data workflows  
+- Build **deployable ML models** with APIs  
+- Strengthen **LLMs & NLP skills** (Hugging Face, LangChain)  
+- Create a **professional project portfolio**  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Emmanuelsakpleto&show_icons=true&theme=radical" alt="GitHub stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuelsakpleto&layout=compact&theme=radical" alt="Top Languages" height="180em" />
+</p>  
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Emmanuelsakpleto&theme=radical" alt="GitHub streak" height="180em" />
+</p>  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Emmanuelsakpleto&label=Profile%20views&color=blue&style=flat" alt="Profile views" />
+</p>  
+
+---
+
+## 🤝 Looking to Collaborate On  
+- Open-source projects in **AI, Data Analytics, and Full-Stack Development**  
+- Beginner-friendly **full-stack apps** with data integration  
+- Innovative projects involving **ML, NLP, and LLMs**  
+
+---
+
+## 🌐 Connect With Me  
 - **GitHub:** [@Emmanuelsakpleto](https://github.com/Emmanuelsakpleto)  
 - **LinkedIn:** [Yao Emmanuel Marie SAKPLETO](https://www.linkedin.com/in/emmanuelsakpleto)  
-- **Email:** [emmanuelsakpleto1@gmail.com](emmanuelsakpleto1@gmail.com)  
-
- 
+- **Email:** emmanuelsakpleto1@gmail.com  
