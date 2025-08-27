@@ -123,9 +123,9 @@ My journey started with curiosity about how data influences decisions. Today, I�
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Commits Stats
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emmanuelsakpleto&theme=redical&cache_seconds=1800" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/commit/?username=Emmanuelsakpleto&theme=radical" alt="Commit Stats" />
 </p>
 
 ---
