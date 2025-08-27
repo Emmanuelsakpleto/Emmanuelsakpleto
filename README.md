@@ -121,17 +121,46 @@ My journey started with curiosity about how data influences decisions. Today, I�
 ---
 
 ## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://github.com/Emmanuelsakpleto">
-    <img src="https://img.shields.io/badge/-GitHub-000000?style=social&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/Emmanuelsakpleto" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
-  <a href="https://huggingface.co/Emmanuelsakpleto">
-    <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=social&logo=huggingface&logoColor=black" alt="HuggingFace" />
+  <a href="https://huggingface.co/Emmanuelsakpleto" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/huggingface.svg" alt="HuggingFace" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/emmanuelsakpleto">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=social&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/emmanuelsakpleto" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:emmanuelsakpleto1@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=social&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:emmanuelsakpleto1@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="30" width="40" />
   </a>
 </p>
+
+---
+
+### 🎨 Alternative avec badges colorés qui fonctionnent
+
+<p align="center">
+  <a href="https://github.com/Emmanuelsakpleto">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub" />
+  </a>
+  <a href="https://huggingface.co/Emmanuelsakpleto">
+    <img src="https://img.shields.io/static/v1?message=HuggingFace&logo=&label=🤗&color=FFD21E&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="HuggingFace" />
+  </a>
+  <a href="https://www.linkedin.com/in/emmanuelsakpleto">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <a href="mailto:emmanuelsakpleto1@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+</p>
+
+---
+
+### 🔗 Version simple et efficace
+
+- **GitHub:** [![GitHub](https://img.shields.io/badge/-Emmanuelsakpleto-181717?style=flat&logo=github)](https://github.com/Emmanuelsakpleto)
+- **HuggingFace:** [![HuggingFace](https://img.shields.io/badge/-Emmanuelsakpleto-FFD21E?style=flat&logoColor=black)](https://huggingface.co/Emmanuelsakpleto)  
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-Yao%20Emmanuel%20Marie%20SAKPLETO-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuelsakpleto)
+- **Email:** [![Gmail](https://img.shields.io/badge/-emmanuelsakpleto1@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:emmanuelsakpleto1@gmail.com)
