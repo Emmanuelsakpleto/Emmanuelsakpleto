@@ -98,20 +98,35 @@ My journey started with curiosity about how data influences decisions. Today, I�
 
 ---
 
-## 📊 GitHub Stats  
-
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emmanuelsakpleto&show_icons=true&theme=radical" alt="GitHub stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuelsakpleto&layout=compact&theme=radical" alt="Top Languages" height="180em" />
-</p>  
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Emmanuelsakpleto&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuelsakpleto&layout=compact&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800&langs_count=8" alt="Top Languages" height="180em" />
+</p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Emmanuelsakpleto&theme=radical" alt="GitHub streak" height="180em" />
-</p>  
-
+  <img src="https://streak-stats.demolab.com?user=Emmanuelsakpleto&theme=radical&cache_seconds=1800&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" height="180em" />
+</p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Emmanuelsakpleto&label=Profile%20views&color=blue&style=flat" alt="Profile views" />
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Emmanuelsakpleto&theme=radical&cache_seconds=1800" alt="WakaTime stats" height="180em" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Emmanuelsakpleto&label=Profile%20views&color=0891b2&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Emmanuelsakpleto?label=Followers&style=flat-square&color=0891b2" alt="GitHub followers" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Emmanuelsakpleto&theme=radical&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emmanuelsakpleto&theme=redical&cache_seconds=1800" alt="Contribution Graph" />
+</p>
 
 ---
 
