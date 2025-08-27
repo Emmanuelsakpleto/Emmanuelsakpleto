@@ -146,7 +146,7 @@ My journey started with curiosity about how data influences decisions. Today, Iâ
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub" />
   </a>
   <a href="https://huggingface.co/Emmanuelsakpleto">
-    <img src="https://img.shields.io/static/v1?message=HuggingFace&logo=&label=ðŸ¤—&color=FFD21E&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="HuggingFace" />
+    <img src="https://img.shields.io/static/v1?message=HuggingFace&logo=&label=&color=FFD21E&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="HuggingFace" />
   </a>
   <a href="https://www.linkedin.com/in/emmanuelsakpleto">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
