@@ -146,7 +146,7 @@ My journey started with curiosity about how data influences decisions. Today, Iâ
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub" />
   </a>
   <a href="https://huggingface.co/Emmanuelsakpleto">
-    <img src="https://img.shields.io/static/v1?message=HuggingFace&logo=&label=&color=FFD21E&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="HuggingFace" />
+    <img src="https://img.shields.io/static/v1?message=HuggingFace&logo=huggingface&label=&color=FFD21E&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="HuggingFace" />
   </a>
   <a href="https://www.linkedin.com/in/emmanuelsakpleto">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
@@ -156,11 +156,3 @@ My journey started with curiosity about how data influences decisions. Today, Iâ
   </a>
 </p>
 
----
-
-### ðŸ”— Version simple et efficace
-
-- **GitHub:** [![GitHub](https://img.shields.io/badge/-Emmanuelsakpleto-181717?style=flat&logo=github)](https://github.com/Emmanuelsakpleto)
-- **HuggingFace:** [![HuggingFace](https://img.shields.io/badge/-Emmanuelsakpleto-FFD21E?style=flat&logoColor=black)](https://huggingface.co/Emmanuelsakpleto)  
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-Yao%20Emmanuel%20Marie%20SAKPLETO-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuelsakpleto)
-- **Email:** [![Gmail](https://img.shields.io/badge/-emmanuelsakpleto1@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:emmanuelsakpleto1@gmail.com)
