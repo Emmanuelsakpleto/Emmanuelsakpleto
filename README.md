@@ -107,25 +107,8 @@ My journey started with curiosity about how data influences decisions. Today, I�
   <img src="https://streak-stats.demolab.com?user=Emmanuelsakpleto&theme=radical&cache_seconds=1800&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" height="180em" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Emmanuelsakpleto&theme=radical&cache_seconds=1800" alt="WakaTime stats" height="180em" />
-</p>
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Emmanuelsakpleto&label=Profile%20views&color=0891b2&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Emmanuelsakpleto?label=Followers&style=flat-square&color=0891b2" alt="GitHub followers" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Emmanuelsakpleto&theme=radical&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📈 Commits Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/commit/?username=Emmanuelsakpleto&theme=radical" alt="Commit Stats" />
 </p>
 
 ---
@@ -137,7 +120,18 @@ My journey started with curiosity about how data influences decisions. Today, I�
 
 ---
 
-## 🌐 Connect With Me  
-- **GitHub:** [@Emmanuelsakpleto](https://github.com/Emmanuelsakpleto)  
-- **LinkedIn:** [Yao Emmanuel Marie SAKPLETO](https://www.linkedin.com/in/emmanuelsakpleto)  
-- **Email:** emmanuelsakpleto1@gmail.com  
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/Emmanuelsakpleto">
+    <img src="https://img.shields.io/badge/-GitHub-000000?style=social&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://huggingface.co/Emmanuelsakpleto">
+    <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=social&logo=huggingface&logoColor=black" alt="HuggingFace" />
+  </a>
+  <a href="https://www.linkedin.com/in/emmanuelsakpleto">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=social&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:emmanuelsakpleto1@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=social&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
