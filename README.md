@@ -99,17 +99,122 @@ My journey started with curiosity about how data influences decisions. Today, I�
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emmanuelsakpleto&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuelsakpleto&layout=compact&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800&langs_count=8" alt="Top Languages" height="180em" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Emmanuelsakpleto&theme=radical&cache_seconds=1800&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" height="180em" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Emmanuelsakpleto&label=Profile%20views&color=0891b2&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Emmanuelsakpleto?label=Followers&style=flat-square&color=0891b2" alt="GitHub followers" />
-</p>
+
+<!-- GitHub Metrics (Solution la plus fiable) -->
+<div align="center">
+  <img src="https://github.com/Emmanuelsakpleto/Emmanuelsakpleto/blob/main/github-metrics.svg" alt="Detailed GitHub Metrics" width="100%">
+</div>
+
+<!-- Profile Summary Cards (Backup très fiable) -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emmanuelsakpleto&theme=radical" alt="Profile Details" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Emmanuelsakpleto&theme=radical" alt="Repos per Language" height="200px">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Emmanuelsakpleto&theme=radical" alt="Most Commit Language" height="200px">
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Emmanuelsakpleto&theme=radical" alt="Stats" height="200px">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Emmanuelsakpleto&theme=radical&utcOffset=0" alt="Productive Time" height="200px">
+</div>
+
+<!-- GitHub Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emmanuelsakpleto&theme=radical&hide_border=true" alt="Contribution Graph" width="100%">
+</div>
+
+<!-- GitHub Streak Stats (version améliorée) -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Emmanuelsakpleto&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="200px">
+</div>
+
+<!-- Trophies GitHub -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Emmanuelsakpleto&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2" alt="GitHub Trophies" width="100%">
+</div>
+
+<!-- Stats traditionnels (en dernier recours) -->
+<details>
+<summary>📈 Stats détaillés (cliquez pour voir)</summary>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Emmanuelsakpleto&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&custom_title=Emmanuel's%20GitHub%20Stats" alt="GitHub Stats" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuelsakpleto&layout=compact&theme=radical&include_all_commits=true&count_private=true&hide_border=true&langs_count=10&exclude_repo=repo-a-ignorer" alt="Top Languages" height="180px">
+</div>
+</details>
+
+<!-- Compteurs -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Emmanuelsakpleto&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Emmanuelsakpleto?label=Followers&style=for-the-badge&color=ff69b4" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Emmanuelsakpleto?label=Total%20Stars&style=for-the-badge&color=ff69b4" alt="Total stars" />
+</div>
+
+<!--
+🔧 CONFIGURATION GITHUB METRICS (à créer dans .github/workflows/metrics.yml)
+
+name: Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Emmanuelsakpleto
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Africa/Lome
+          
+          # Activité
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          
+          # Langages (très précis)
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          plugin_languages_details: percentage
+          
+          # Lignes de code
+          plugin_lines: yes
+          
+          # Réalisations
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+          
+          # Habitudes de code
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_days: 14
+          plugin_habits_from: 200
+          
+          # Repos les plus actifs
+          plugin_notable: yes
+          plugin_notable_from: organization
+          plugin_notable_repositories: yes
+          
+          # Contributions
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
+-->
 
 ---
 
