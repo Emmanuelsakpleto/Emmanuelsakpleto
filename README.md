@@ -100,11 +100,6 @@ My journey started with curiosity about how data influences decisions. Today, I�
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Metrics (Solution la plus fiable) -->
-<div align="center">
-  <img src="https://github.com/Emmanuelsakpleto/Emmanuelsakpleto/blob/main/github-metrics.svg" alt="Detailed GitHub Metrics" width="100%">
-</div>
-
 <!-- Profile Summary Cards (Backup très fiable) -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emmanuelsakpleto&theme=radical" alt="Profile Details" width="100%">
