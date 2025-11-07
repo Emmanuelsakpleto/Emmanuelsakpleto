@@ -64,6 +64,7 @@ My journey started with curiosity about how data influences decisions. Today, I�
 
 ### 🔹 [TheRecruit 🚀](https://github.com/Emmanuelsakpleto/LLM_Recrutement_Frontend) | [Backend](https://github.com/Emmanuelsakpleto/LLM_Recrutement_Backend) on https://therecruit.vercel.app
 💼 Plateforme intelligente de gestion de recrutement propulsée par **Google Gemini AI**.  
+- Génération de fiches de poste
 - Analyse automatisée de CV et scoring prédictif  
 - Génération de questions d’entretien personnalisées  
 - Dashboards interactifs & rapports PDF  
