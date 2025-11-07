@@ -98,38 +98,10 @@ My journey started with curiosity about how data influences decisions. Today, I�
 
 
 ---
+### 🧮 My GitHub Metrics
 
-## 📊 GitHub Stats
+![Metrics](https://github.com/Emmanuelsakpleto/Emmanuelsakpleto/blob/main/metrics.svg)
 
-<!-- Profile Summary Cards (Backup très fiable) -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emmanuelsakpleto&theme=radical" alt="Profile Details" width="100%">
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Emmanuelsakpleto&theme=radical" alt="Repos per Language" height="200px">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Emmanuelsakpleto&theme=radical" alt="Most Commit Language" height="200px">
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Emmanuelsakpleto&theme=radical" alt="Stats" height="200px">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Emmanuelsakpleto&theme=radical&utcOffset=0" alt="Productive Time" height="200px">
-</div>
-
-<!-- Trophies GitHub -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Emmanuelsakpleto&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2" alt="GitHub Trophies" width="100%">
-</div>
-
-<!-- Stats traditionnels (en dernier recours) -->
-<details>
-<summary>📈 Stats détaillés (cliquez pour voir)</summary>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emmanuelsakpleto&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&custom_title=Emmanuel's%20GitHub%20Stats" alt="GitHub Stats" height="180px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuelsakpleto&layout=compact&theme=radical&include_all_commits=true&count_private=true&hide_border=true&langs_count=10&exclude_repo=repo-a-ignorer" alt="Top Languages" height="180px">
-</div>
-</details>
 
 <!-- Compteurs -->
 <div align="center">
