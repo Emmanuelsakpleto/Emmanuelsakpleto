@@ -97,17 +97,35 @@ My journey started with curiosity about how data influences decisions. Today, I�
 
 
 
----
-### 🧮 My GitHub Metrics
+--- 
 
-![Metrics](https://github.com/Emmanuelsakpleto/Emmanuelsakpleto/blob/main/metrics.svg)
+## 📊 GitHub Stats
 
+<!-- Profile Summary Cards -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emmanuelsakpleto&theme=radical" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Emmanuelsakpleto&theme=radical" height="200px">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Emmanuelsakpleto&theme=radical" height="200px">
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Emmanuelsakpleto&theme=radical" height="200px">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Emmanuelsakpleto&theme=radical&utcOffset=0" height="200px">
+</div>
+
+<!-- GitHub Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Emmanuelsakpleto&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2" width="100%">
+</div>
 
 <!-- Compteurs -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Emmanuelsakpleto&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Emmanuelsakpleto?label=Followers&style=for-the-badge&color=ff69b4" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/Emmanuelsakpleto?label=Total%20Stars&style=for-the-badge&color=ff69b4" alt="Total stars" />
+  <img src="https://komarev.com/ghpvc/?username=Emmanuelsakpleto&label=Profile%20views&color=ff69b4&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Emmanuelsakpleto?label=Followers&style=for-the-badge&color=ff69b4" />
+  <img src="https://img.shields.io/github/stars/Emmanuelsakpleto?label=Total%20Stars&style=for-the-badge&color=ff69b4" />
 </div>
 
 <!--
