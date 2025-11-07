@@ -115,16 +115,6 @@ My journey started with curiosity about how data influences decisions. Today, I�
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Emmanuelsakpleto&theme=radical&utcOffset=0" alt="Productive Time" height="200px">
 </div>
 
-<!-- GitHub Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emmanuelsakpleto&theme=radical&hide_border=true" alt="Contribution Graph" width="100%">
-</div>
-
-<!-- GitHub Streak Stats (version améliorée) -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Emmanuelsakpleto&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="200px">
-</div>
-
 <!-- Trophies GitHub -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Emmanuelsakpleto&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2" alt="GitHub Trophies" width="100%">
