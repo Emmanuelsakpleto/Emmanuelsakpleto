@@ -215,7 +215,7 @@ jobs:
 
 ## 🤝 Looking to Collaborate On  
 - Open-source projects in **AI, Data Analytics, and Full-Stack Development**  
-- Beginner-friendly **full-stack apps** with data integration  
+- **Full-stack apps** with data integration  
 - Innovative projects involving **ML, NLP, and LLMs**  
 
 ---
