@@ -16,7 +16,7 @@ jobs:
           config_timezone: Africa/Casablanca
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_habits: yes
+          plugin_habits: no
           plugin_habits_charts: yes
           plugin_habits_trim: yes
           plugin_languages: yes
@@ -27,8 +27,8 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_threshold: C
-          plugin_activity: yes
+          plugin_activity: no
           plugin_activity_limit: 5
           plugin_activity_visibility: all
-          plugin_followup: yes
+          plugin_followup: no
           plugin_stars: yes
